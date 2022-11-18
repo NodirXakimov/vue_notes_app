@@ -1,6 +1,9 @@
 # NotesApp
 
-This template should help get you started developing with Vue 3 in Vite.
+Site deployed at https://kh-vue-notes-app.netlify.app/.
+
+![image](https://user-images.githubusercontent.com/36696948/202617404-b8734475-e71d-4b3c-8682-f2b989c07b80.png)
+
 
 ## Recommended IDE Setup
 
